@@ -4,7 +4,7 @@
   <img src="ISVEnterpriseUC.jpg">
 </p>
 
-Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. 
+Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life is this were a real build with an international collaboration between nations, some educated guesses and interpolation may be allowed.
 
 Project background location: https://www.linkedin.com/pulse/advanced-propulsion-resources-22-paul-titze-su26c/
 
