@@ -4,7 +4,7 @@
   <img src="ISVEnterpriseUC.jpg">
 </p>
 
-Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations. Some educated guesses and interpolation may be allowed as many technologies required haven't been invented. The starship will have the following features:
+Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be theoretically sound and accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations. Some educated guesses and interpolation may be allowed as many technologies required for the starship haven't been built yet. The starship will have the following features:
 
 - Artificial gravity rotating habs for the crew section, this would need to be compulsory. Linear acceleration could also provide 1 g however in practice this isn't sustainable for any long propulsion burn durations.
 - Passive and active shielding to mitigate space radiation exposure for the crew, this would need to be compulsory.
@@ -23,4 +23,7 @@ Project background location: https://www.linkedin.com/pulse/advanced-propulsion-
 This author will be using a combination of [KSP 1.12.5](https://store.steampowered.com/app/220200/Kerbal_Space_Program/) with mods and imported custom made starship parts modelled in [Blender](https://www.blender.org/) to assist with visualisations (see [Part 1](https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/) of the above article if you're not familiar with KSP) however a full Blender model will also be available for cinematic renders in this repo. 
 Note that this author is also keeping a close eye on developments of [Kitten Space Agency](https://kittenspaceagency.wiki.gg/) which is the [spiritual successor to KSP2](https://www.youtube.com/watch?v=DO11l8wNQNg) with some of the original KSP developers working on this new space simulation game. More significantly KSA will also have interstellar travel.
 
-Early renders and progress reports will be added to this repo.
+Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute.
+
+Cheers, Paul Titze.
+
