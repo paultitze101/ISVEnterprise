@@ -27,7 +27,7 @@ Project background location: https://www.linkedin.com/pulse/advanced-propulsion-
 This author will be using a combination of [KSP 1.12.5](https://store.steampowered.com/app/220200/Kerbal_Space_Program/) with mods and imported custom made starship parts modelled in [Blender](https://www.blender.org/) to assist with visualisations (see [Part 1](https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/) of the above article if you're not familiar with KSP) however a full Blender model will also be available for cinematic renders in this repo. Note that this author is also keeping a close eye on developments of [Kitten Space Agency](https://kittenspaceagency.wiki.gg/) which is the [spiritual successor to KSP2](https://www.youtube.com/watch?v=DO11l8wNQNg) with some of the original KSP developers working on this new space simulation game. More significantly KSA will also have interstellar travel.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=87ipqf0iV4c&t=216s" target="_blank">
+<a href="https://www.youtube.com/watch?v=87ipqf0iV4c" target="_blank">
   <img src="KSP2YouTube.jpg" alt="Watch on YouTube" />
 </a>
 </p>
