@@ -27,9 +27,10 @@ Early renders and progress reports will be added to this repo. This is an Open S
 
 Useful reference papers:
 - [How to build an antimatter rocket for interstellar missions](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/38278) - systems level considerations in designing advanced propulsion technology vehicles, by Robert H. Frisbee.
-- [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), Young K. Bae.
+- [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
 
 
+<BR><BR>
 
 Cheers, Paul Titze.
 
