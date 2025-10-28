@@ -6,7 +6,7 @@
 
 Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be theoretically sound and accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations. Some educated guesses and interpolation may be allowed as many technologies required for the starship haven't been built yet. The starship will have the following features:
 
-- Artificial gravity rotating habs for the crew section, this would need to be compulsory. Linear acceleration could also provide 1 g however in practice this isn't sustainable for any long propulsion burn durations.
+- Artificial gravity rotating habs for the crew section @ 1g, this would need to be compulsory.
 - Passive and active shielding to mitigate space radiation exposure for the crew, this would need to be compulsory.
 - A dust shield, this would need to be compulsory unless there was a means to actively detect and laser shoot incoming targets prior to impact or there was an active collision avoidance system in place. At moderate relativistic velocities a grain of interplanetary or interstellar dust could cause damage to the spacecraft, use the sacrificial dust shield to take the hits instead of the spacecraft. Use ISRU methods to repair the shield using resources from the exoplanet when required. There is a price to pay though as this is amounts to a substantial overall mass of the starship.
 - High performance propulsion systems, lots of options and hybrid combinations possible. For the purposes of this article we'll set the minimum requirements for the main propulsion system to have an Isp at least 400,000 s @100 kN thrust or higher Isps with lower thrust in combination with other propulsion systems that can deliver high thrust when required for orbital manoeuvres etc. This would mean NTP, NEP for eg for the main drive are rulled out however potentially could be used as auxiliary propulsion systems. To meet the above requirement we'll need to use NFP or MAP or other propulsion systems that meet our criteria preferably with an Isp > 15,000,000 s. Minimum three main propulsion drives are required for redundancy. When it comes to interstellar travel speed is of the essence.
@@ -21,10 +21,15 @@ Virtual build of a starship for an exploratory scientific mission to survey the 
 
 Project background location: https://www.linkedin.com/pulse/advanced-propulsion-resources-22-paul-titze-su26c/
 
-This author will be using a combination of [KSP 1.12.5](https://store.steampowered.com/app/220200/Kerbal_Space_Program/) with mods and imported custom made starship parts modelled in [Blender](https://www.blender.org/) to assist with visualisations (see [Part 1](https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/) of the above article if you're not familiar with KSP) however a full Blender model will also be available for cinematic renders in this repo. 
-Note that this author is also keeping a close eye on developments of [Kitten Space Agency](https://kittenspaceagency.wiki.gg/) which is the [spiritual successor to KSP2](https://www.youtube.com/watch?v=DO11l8wNQNg) with some of the original KSP developers working on this new space simulation game. More significantly KSA will also have interstellar travel.
+This author will be using a combination of [KSP 1.12.5](https://store.steampowered.com/app/220200/Kerbal_Space_Program/) with mods and imported custom made starship parts modelled in [Blender](https://www.blender.org/) to assist with visualisations (see [Part 1](https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/) of the above article if you're not familiar with KSP) however a full Blender model will also be available for cinematic renders in this repo. Note that this author is also keeping a close eye on developments of [Kitten Space Agency](https://kittenspaceagency.wiki.gg/) which is the [spiritual successor to KSP2](https://www.youtube.com/watch?v=DO11l8wNQNg) with some of the original KSP developers working on this new space simulation game. More significantly KSA will also have interstellar travel.
 
-Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section.
+Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc.
+
+Useful reference papers:
+- [How to build an antimatter rocket for interstellar missions](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/38278) - systems level considerations in designing advanced propulsion technology vehicles, by Robert H. Frisbee.
+- [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), Young K. Bae.
+
+
 
 Cheers, Paul Titze.
 
