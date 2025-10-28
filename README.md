@@ -4,7 +4,9 @@
   <img src="ISVEnterpriseUC.jpg">
 </p>
 
-Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be theoretically sound and accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations. Some educated guesses and interpolation may be allowed as many technologies required for the starship haven't been built yet. The starship will have the following features:
+Virtual build of a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for more mature volunteer crew who might need to sign a waiver however cryosleep may also be an option. The model has to be theoretically sound and accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations. Some educated guesses and interpolation may be allowed as many technologies required for the starship haven't been built yet. 
+
+ISV Enterprise will have the following features:
 
 - Length Overall (LOA) shall not exceed 1,200 m.
 - Artificial gravity rotating habs for the crew section @1g, this would need to be compulsory.
