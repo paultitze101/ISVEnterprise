@@ -42,8 +42,9 @@ Useful reference papers:
 - [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
 
 
-<BR><BR>
+<BR><BR><BR>
 
-Cheers, Paul Titze.
-ISV Enterprise Chief Engineer.
+Cheers, [Paul Titze](www.linkedin.com/in/paul-titze-3794502b).<BR>
+ISV Enterprise Chief Engineer.<BR>
+
 
