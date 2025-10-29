@@ -44,7 +44,7 @@ Useful reference papers:
 
 <BR><BR><BR>
 
-Cheers, [Paul Titze](www.linkedin.com/in/paul-titze-3794502b).<BR>
+Cheers, [Paul Titze](https://www.linkedin.com/in/paul-titze-3794502b).<BR>
 ISV Enterprise Chief Engineer.<BR>
 
 
