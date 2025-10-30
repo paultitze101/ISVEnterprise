@@ -33,7 +33,7 @@ This author will be using a combination of [KSP 1.12.5](https://store.steampower
 </a>
 </p>
 
-Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc. Pull requests are also welcome from contributor starship builders after the keel is laid and early Blender files become available in this repo, construction updates will be posted here.
+Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc. Pull requests are also welcome from contributor starship builders after the keel is laid and early Blender files become available in this repo, construction updates will be posted further below.
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=StKLeD5h_Tw" target="_blank">
@@ -49,7 +49,25 @@ Useful reference papers:
 - [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
 
 
+
+
+
+
 <BR><BR><BR>
+Updates:
+<BR>
+28/10/25: Repo created.
+
+
+
+
+
+
+
+
+
+
+
 
 Cheers, [Paul Titze](https://www.linkedin.com/in/paul-titze-3794502b).<BR>
 ISV Enterprise Chief Engineer.<BR>
