@@ -61,7 +61,6 @@ Useful reference papers:
 
 
 # Updates
-<BR>
 28/10/25: Repo created, added README.
 
 
