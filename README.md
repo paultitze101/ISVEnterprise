@@ -33,7 +33,13 @@ This author will be using a combination of [KSP 1.12.5](https://store.steampower
 </a>
 </p>
 
-Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc. Pull requests are also welcome from contributor starship builders after the keel is laid and early Blender files become available in this repo.
+Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc. Pull requests are also welcome from contributor starship builders after the keel is laid and early Blender files become available in this repo, construction updates will be posted here.
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=StKLeD5h_Tw" target="_blank">
+  <img src="BPS.jpg" alt="Watch on YouTube" />
+</a>
+</p>
 
 Useful reference papers:
 <BR>
