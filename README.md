@@ -51,6 +51,14 @@ Useful reference papers:
 - [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
 - Prospects for Interstellar Travel, by John H. Mauldin. [Book review](https://www.linkedin.com/pulse/book-review-prospects-interstellar-travel-parts-1-2-paul-titze/) by Paul Titze.
 
+<BR>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=yWlpNm1C5gw" target="_blank">
+  <img src="IST.jpg" alt="Watch on YouTube" />
+</a>
+</p>
+
+
 <BR><BR><BR>
 Updates:
 <BR>
