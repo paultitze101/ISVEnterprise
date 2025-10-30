@@ -58,8 +58,7 @@ Useful reference papers:
 </a>
 </p>
 
-
-<BR><BR><BR>
+<BR>
 Updates:
 <BR>
 28/10/25: Repo created, added README.
