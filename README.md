@@ -40,7 +40,6 @@ Early renders and progress reports will be added to this repo. This is an Open S
 <a href="https://www.youtube.com/watch?v=StKLeD5h_Tw" target="_blank">
 <img src="BPS.jpg" alt="Watch on YouTube" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=Ba1g2s7wDqc" target="_blank">
 <img src="COTS.jpg" alt="Watch on YouTube" />
 </a>    
