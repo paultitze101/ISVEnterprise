@@ -52,7 +52,11 @@ Useful reference material:
 - [Aneutronic Fusion Propulsion](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/), Defense Intelligence Reference Document (unclassified), DIA.
 - [Recommended Design Practices for Conceptual Nuclear Fusion Space Propulsion Systems](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=60353.0;attach=2280551), Special Project, AIAA.
 - [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
-- Prospects for Interstellar Travel, by John H. Mauldin. [Book review](https://www.linkedin.com/pulse/book-review-prospects-interstellar-travel-parts-1-2-paul-titze/) by Paul Titze.
+- [Prospects for Interstellar Travel](https://www.amazon.com/Prospects-Interstellar-Travel-Science-Technology/dp/0877033447/), by John H. Mauldin. [Book review](https://www.linkedin.com/pulse/book-review-prospects-interstellar-travel-parts-1-2-paul-titze/) by Paul Titze.
+- [Interstellar Travel](https://www.amazon.com/dp/032391280X) - Propulsion, life support, communications, and the long journey, edited by Les Jonhson & Kenneth Roy.
+- [The Starflight Handbook](https://www.amazon.com/dp/0471619124) - A Pioneer's Guide to Interstellar Travel, by Eugene Mallove & Gregory Matloff.
+- [Deep Space Propulsion](https://www.amazon.com/Deep-Space-Propulsion-Roadmap-Interstellar/dp/1461406064/) - A Roadmap to Interstellar Flight, by Kelvin F. Long.
+- [Centauri Dreams](https://www.amazon.com.au/dp/038700436X), by [Paul Gilster](https://www.centauri-dreams.org/) who also has an excellent [Interstellar Booklist](https://www.centauri-dreams.org/an-interstellar-booklist/).
 
 <BR>
 
