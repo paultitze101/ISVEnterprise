@@ -55,7 +55,11 @@ Useful reference material:
 - Prospects for Interstellar Travel, by John H. Mauldin. [Book review](https://www.linkedin.com/pulse/book-review-prospects-interstellar-travel-parts-1-2-paul-titze/) by Paul Titze.
 
 <BR>
+
 <p align="center">
+<a href="https://www.youtube.com/watch?v=RiJFo-kaJBQ" target="_blank">
+<img src="Gif.jpg" alt="Watch on YouTube" />
+</a>    
 <a href="https://www.youtube.com/watch?v=yWlpNm1C5gw" target="_blank">
   <img src="IST.jpg" alt="Watch on YouTube" />
 </a>
