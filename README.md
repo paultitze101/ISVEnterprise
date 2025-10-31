@@ -69,6 +69,11 @@ Useful reference material:
 </a>
 </p>
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=eA4X9P98ess" target="_blank">
+  <img src="MAP.jpg" alt="Watch on YouTube" />
+</a>
+</p>
 
 # Updates
 28/10/25: Repo created, added README.
