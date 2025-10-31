@@ -58,7 +58,7 @@ Useful reference material:
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=RiJFo-kaJBQ" target="_blank">
-<img src="Gif.jpg" alt="Watch on YouTube" />
+<img src="GIF.jpg" alt="Watch on YouTube" />
 </a>    
 <a href="https://www.youtube.com/watch?v=yWlpNm1C5gw" target="_blank">
   <img src="IST.jpg" alt="Watch on YouTube" />
