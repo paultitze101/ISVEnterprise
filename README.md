@@ -76,8 +76,8 @@ Useful reference material:
 </p>
 
 # Updates
-28/10/25: C/E: Repo created, added README.
-01/11/25: C/E: Downloaded Blender 4.5.3. Currently learning Blender, reading through the book [Blender 3D simple & clear guide 2024](https://www.amazon.com/Blender-Simple-Clear-Guide-Designers/dp/B0D4R5GKJH) and doing this [LinkedIn course](https://www.linkedin.com/learning/blender-4-0-essential-training/understanding-how-blender-works?resume=false&u=0). The C/E has previously used 3D modelling programs at a proficient level however is new to Blender.  
+28/10/25: C/E: Repo created, added README with useful relevant resources.<BR>
+01/11/25: C/E: Downloaded Blender 4.5.3. Currently learning Blender, reading through the book [Blender 3D simple & clear guide 2024](https://www.amazon.com/Blender-Simple-Clear-Guide-Designers/dp/B0D4R5GKJH) and doing this [LinkedIn course](https://www.linkedin.com/learning/blender-4-0-essential-training/understanding-how-blender-works?resume=false&u=0). The C/E has previously used 3D modelling programs at a proficient level however is new to Blender.<BR>  
 
 
 
