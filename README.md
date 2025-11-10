@@ -97,4 +97,4 @@ ISV Enterprise Chief Engineer (C/E).<BR>
 <BR>
 
 <a href="https://www.eso.org/public/news/eso1629/" target="_blank"><img src="eso1629b.jpg" alt="Proxima Centauri b location. Credit: ESO"/></a><BR>
-Proxima Centauri b location. Credit: European Southern Observtory.
+Proxima Centauri b location. Credit: European Southern Observatory.
