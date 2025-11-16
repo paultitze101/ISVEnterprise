@@ -82,7 +82,7 @@ Useful reference material:
 28/10/25: C/E: Repo created, added README with useful relevant resources.<BR>
 01/11/25: C/E: Currently learning [Blender 4.5.3](https://www.blender.org/). Reading through the book [Blender 3D simple & clear guide 2024](https://www.amazon.com/Blender-Simple-Clear-Guide-Designers/dp/B0D4R5GKJH) and doing this [LinkedIn course](https://www.linkedin.com/learning/blender-4-0-essential-training/understanding-how-blender-works?resume=false&u=0). The C/E has previously used 3D modelling programs at a proficient level however is new to Blender and is particulary interested in its [Python scripting](Blender_Scripts/Test.py) capabilities.  
 02/11/25: C/E: Setup [Jupyter Notebook](https://jupyter.org/) file for the Proxima Centauri b Transportation Assessment Study ([PCBTAS](PCBTAS/PCBTAS.ipynb)).
-
+16/11/25: C/E: The graphics for the [pre-alpha release of KSA](https://www.youtube.com/watch?v=KTU7Ky4L02k) is quite impressive and found out there is [support to bring Blender models into KSA via .glb files](https://kittenspaceagency.wiki.gg/wiki/Part#Modding_guidelines) which Blender can export to. KSA will also support interstellar travel so will look at bringing ISV Enterprise into KSA when a usable model is ready.
 
 
 
