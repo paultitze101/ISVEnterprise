@@ -101,5 +101,7 @@ Cheers, [Paul Titze](https://www.linkedin.com/in/paul-titze-3794502b).<BR>
 ISV Enterprise Chief Engineer (C/E).<BR>
 <BR>
 
+> *What a wonderful and amazing Scheme have we here of the magnificent Vastness of the Universe! So many Suns, so many Earths, and every one of them stock'd with so many Herbs, Trees and Animals, and adorn'd with so many Seas and Mountains! And how must our wonder and admiration be increased when we consider the prodigious distance and multitude of the Stars?* **Christiaan Huygens**, 1695.
+
 <a href="https://www.eso.org/public/news/eso1629/" target="_blank"><img src="eso1629b.jpg" alt="Proxima Centauri b location. Credit: ESO"/></a><BR>
 Proxima Centauri b location. Credit: European Southern Observatory.
