@@ -99,7 +99,6 @@ Useful reference material:
 <BR><BR><BR><BR>
 Cheers, [Paul Titze](https://www.linkedin.com/in/paul-titze-3794502b).<BR>
 ISV Enterprise Chief Engineer (C/E).<BR>
-<BR>
 
 > *What a wonderful and amazing Scheme have we here of the magnificent Vastness of the Universe! So many Suns, so many Earths, and every one of them stock'd with so many Herbs, Trees and Animals, and adorn'd with so many Seas and Mountains! And how must our wonder and admiration be increased when we consider the prodigious distance and multitude of the Stars?* **Christiaan Huygens**, 1695.
 
