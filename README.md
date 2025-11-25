@@ -45,9 +45,11 @@ Early renders and progress reports will be added to this repo. This is an Open S
 <img src="COTS.jpg" alt="Watch on YouTube" />
 </a>    
 </p>
+<BR>
 
 > *To drop a pea at the end of every mile of a voyage on a limitless ocean to the nearest fixed star, would require a fleet of 10,000 ships of 600 tons burthen, each starting with a full cargo of peas.* **John Herschel**, c.1850.
 
+<BR>
 Useful reference material:
 <BR>
 - [Breakthrough Propulsion Study](https://ntrs.nasa.gov/api/citations/20180006480/downloads/20180006480.pdf) - Assessing Interstellar Flight Challenges and Prospects, by Marc G. Millis, Jeff Greason and Rhonda Stevenson.
@@ -88,7 +90,9 @@ Useful reference material:
 </a>
 </p>
 
+<BR>
 > *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system?* **Immanuel Kant**, 1755.
+<BR>
 
 # Updates
 28/10/25: C/E: Repo created, added README with useful relevant resources.<BR>
