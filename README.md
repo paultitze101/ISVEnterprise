@@ -92,6 +92,7 @@ Useful reference material:
 
 > *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system?* **Immanuel Kant**, 1755.
 
+<BR>
 
 # Updates
 28/10/25: C/E: Repo created, added README with useful relevant resources.<BR>
