@@ -46,6 +46,8 @@ Early renders and progress reports will be added to this repo. This is an Open S
 </a>    
 </p>
 
+> *To drop a pea at the end of every mile of a voyage on a limitless ocean to the nearest fixed star, would require a fleet of 10,000 ships of 600 tons burthen, each starting with a full cargo of peas.* **John Herschel**, c.1850.
+
 Useful reference material:
 <BR>
 - [Breakthrough Propulsion Study](https://ntrs.nasa.gov/api/citations/20180006480/downloads/20180006480.pdf) - Assessing Interstellar Flight Challenges and Prospects, by Marc G. Millis, Jeff Greason and Rhonda Stevenson.
