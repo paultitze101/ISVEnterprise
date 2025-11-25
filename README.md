@@ -90,8 +90,7 @@ Useful reference material:
 </a>
 </p>
 
-<BR>
-> *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system? * **Immanuel Kant**, 1755.
+> *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system?* **Immanuel Kant**, 1755.
 
 
 # Updates
