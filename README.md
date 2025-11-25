@@ -51,7 +51,7 @@ Early renders and progress reports will be added to this repo. This is an Open S
 
 <BR>
 Useful reference material:
-<BR>
+
 - [Breakthrough Propulsion Study](https://ntrs.nasa.gov/api/citations/20180006480/downloads/20180006480.pdf) - Assessing Interstellar Flight Challenges and Prospects, by Marc G. Millis, Jeff Greason and Rhonda Stevenson.
 - [How to build an antimatter rocket for interstellar missions](https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/38278) - systems level considerations in designing advanced propulsion technology vehicles, by Robert H. Frisbee.
 - [Aneutronic Fusion Propulsion](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/), Defense Intelligence Reference Document (unclassified), DIA.
