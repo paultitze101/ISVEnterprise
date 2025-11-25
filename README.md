@@ -115,3 +115,6 @@ ISV Enterprise Chief Engineer (C/E).<BR>
 
 <a href="https://www.eso.org/public/news/eso1629/" target="_blank"><img src="eso1629b.jpg" alt="Proxima Centauri b location. Credit: ESO"/></a><BR>
 Proxima Centauri b location. Credit: European Southern Observatory.
+
+> *There are countless suns and countless earths all rotating around their suns in exactly the same way as the seven planets of our system. We see only the suns because they are the largest bodies and luminous; the earths we do not see because they are smaller and non-luminous.* **Giordano Bruno**, 1584.
+
