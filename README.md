@@ -88,6 +88,8 @@ Useful reference material:
 </a>
 </p>
 
+> *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system?* **Immanuel Kant**, 1755.
+
 # Updates
 28/10/25: C/E: Repo created, added README with useful relevant resources.<BR>
 01/11/25: C/E: Currently learning [Blender 4.5.3](https://www.blender.org/). Reading through the book [Blender 3D simple & clear guide 2024](https://www.amazon.com/Blender-Simple-Clear-Guide-Designers/dp/B0D4R5GKJH) and doing this [LinkedIn course](https://www.linkedin.com/learning/blender-4-0-essential-training/understanding-how-blender-works?resume=false&u=0). The C/E has previously used 3D modelling programs at a proficient level however is new to Blender and is particulary interested in its [Python scripting](Blender_Scripts/Test.py) capabilities.  
