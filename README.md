@@ -118,3 +118,7 @@ Proxima Centauri b location. Credit: European Southern Observatory.
 
 > *There are countless suns and countless earths all rotating around their suns in exactly the same way as the seven planets of our system. We see only the suns because they are the largest bodies and luminous; the earths we do not see because they are smaller and non-luminous.* **Giordano Bruno**, 1584.
 
+<BR>
+
+<img src="ArgoNavis.jpg" alt="Argo Navis"/></a><BR>
+The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
