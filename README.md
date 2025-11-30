@@ -1,5 +1,7 @@
 # ISV Enterprise
 
+> *Spaceflight as we know it, is based on the century old rocket equation that is the embodiment of the conservation of linear momentum. Current space transportation systems are based on this principle of momentum generation, regardless whether they are chemical, electric, plasma-dynamic, nuclear (fission) or fusion, antimatter, photonic propulsion (relativistic) and photon driven (solar) sails, or exotic Bussard fusion ramjets. Moreover, special relativity puts an upper limit on the speed of any space-vehicle in the form of the velocity of light in vacuum. The only possibility to overcome these severe limitations lies in the finding of novel physical laws that allow constructing propulsion systems based on principles different from classical mechanics (momentum principle). Therefore, there has been a great deal of interest during the last decade in so called breakthrough propulsion physics.* **Walter Dröscher & Jochem Hauser**, 2007.
+
 <p align="center">
   <img src="ISVEnterpriseUC.jpg">
 </p>
