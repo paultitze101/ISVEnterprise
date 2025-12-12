@@ -69,7 +69,7 @@ Useful reference material:
 - [Magnetospheric Shielding of Spacecraft and Crew From Galactic Cosmic Radiation](https://www.researchgate.net/publication/382489169_Magnetospheric_Shielding_of_Spacecraft_and_Crew_from_Galactic_Cosmic_Radiation), by John Slough.
 - [Prospects for Interstellar Travel](https://www.amazon.com/Prospects-Interstellar-Travel-Science-Technology/dp/0877033447/), by John H. Mauldin. [Book review](https://www.linkedin.com/pulse/book-review-prospects-interstellar-travel-parts-1-2-paul-titze/) by Paul Titze.
 - [Interstellar Travel](https://www.amazon.com/dp/032391280X) - Propulsion, life support, communications, and the long journey, edited by Les Jonhson and Kenneth Roy.
-- [The Starflight Handbook](https://www.amazon.com/dp/0471619124) - A Pioneer's Guide to Interstellar Travel, by Eugene Mallove & Gregory Matloff.
+- [The Starflight Handbook](https://www.amazon.com/dp/0471619124) - A Pioneer's Guide to Interstellar Travel, by Eugene Mallove and Gregory Matloff.
 - [Deep Space Propulsion](https://www.amazon.com/Deep-Space-Propulsion-Roadmap-Interstellar/dp/1461406064/) - A Roadmap to Interstellar Flight, by Kelvin F. Long.
 - [Centauri Dreams](https://www.amazon.com.au/dp/038700436X), by [Paul Gilster](https://www.centauri-dreams.org/) who also has an excellent [Interstellar Booklist](https://www.centauri-dreams.org/an-interstellar-booklist/).
 - [The Physics of Interstellar Travel](https://bailer-jones.www3.mpia.de/pit.html), by Coryn Bailer-Jones.
