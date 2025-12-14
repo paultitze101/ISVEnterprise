@@ -128,7 +128,7 @@ Proxima Centauri b location. Credit: European Southern Observatory.<BR><BR>
 
 <img src="ArgoNavis.jpg" alt="Argo Navis"/><BR>
 The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
-<BR>
+<BR><BR>
 
 > *We must suppose that in the region of the sun there are inhabitants who are more solar and luminous, and in the region of the stars, others exist who are more stellar.* **Nicolaus Cusanus**, 1440.
 
