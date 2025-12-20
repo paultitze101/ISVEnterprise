@@ -133,6 +133,8 @@ The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
 > *We must suppose that in the region of the sun there are inhabitants who are more solar and luminous, and in the region of the stars, others exist who are more stellar.* **Nicolaus Cusanus**, 1440.
 
 <BR>
+<img src="StellarNeighbourhood.jpg" alt="Stellar Neighborhoud"/>
+<BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
 Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
