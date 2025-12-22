@@ -133,7 +133,7 @@ The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
 > *We must suppose that in the region of the sun there are inhabitants who are more solar and luminous, and in the region of the stars, others exist who are more stellar.* **Nicolaus Cusanus**, 1440.
 
 <BR>
-<img src="20lys.gif" alt="20 lightyear star map"/>
+<img src="20lysmap.gif" alt="20 lightyear star map"/>
 Map of local stars within 20 ly. Credit: Richard Powell.
 <BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
