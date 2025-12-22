@@ -135,7 +135,7 @@ The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
 <BR>
 <img src="20lysmap.gif" alt="20 lightyear star map"/>
 Map of local stars within 20 ly. Credit: Richard Powell.
-<BR>
+<BR><BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
 Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
