@@ -14,7 +14,7 @@ ISV Enterprise will have the following features (items are marked either <I>Nego
 
 - Length Overall (LOA) shall not exceed 2,500 m. <I>Negotiable</I>
 - The ship has to be able to reach a minimum peak velocity during the coast phase of 0.2c. <I>Compulsory</I>
-- Artificial Gravity (AG) rotating habs for the crew quarters @1g @1.5 RPM (800 m diameter habitat). <I>Compulsory</I>
+- Artificial Gravity (AG) rotating hab for the crew quarters @1g @1.5 RPM (800 m diameter habitat). <I>Compulsory</I>
 - AG rotating hab @1g @1.5 RPM (800 m diamater habitat) for hydroponics and small animals in mini farms such as chickens, goats etc. For this long duration mission, all crew and animals need clean air, clean water and some fresh food in an Earth-surface-like low radiation environment. <I>Compulsory</I> 
 - Passive and Active shield systems to mitigate space radiation exposure for various sections of the ship. Note Spaceship Earth provides adequate Passive shielding for its crew on the surface by an atmosphere that is equivalent to 10 m of water and an Active shield system via its geomagnetic field. <I>Compulsory</I>
 - Substantial dust shield. At moderate relativistic velocities a grain of interplanetary or interstellar dust could cause damage to the ship, use the sacrificial dust shield to take the hits instead of the ship. Use ISRU methods to repair the shield using resources from the star system or exoplanet when required. There is a price to pay though as this amounts to a substantial overall mass increase to the ship. However the dust shield has another purpose, the back of this dust shield will have a large segmented mirror for the Photonic Laser Propulsion system. <I>Compulsory</I>
