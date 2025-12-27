@@ -111,7 +111,7 @@ Useful reference material:
 25/12/25: C/E: Ship design update. Made some rough sketches to help think about the overall layout, had to make some compromises such as 1g rotating habitat rings is too prohibitive mass wise. Even with antimatter, fusion drives and some early boost via Photonic Laser Propulsion via a detachable boost ring near the solar system, wet mass is a real deal breaker to get crew back in their lifetimes. So far with a wet mass of 50,000 t looking at 85 years (Earth frame) return trip time (with 1 year stay at Proxima Centauri b) which is unacceptable. Still need to work on reducing mass of the ship or increase thrust etc however think engines wise it's already pushing it. Also worked on early concept of the emergency lander if crew get stranded on the surface due to a major breakdown of the main shuttle (ChatGPT assist). Found some useful Youtube blender tutorial channels which I'm going through: [Blender Guru](https://www.youtube.com/@blenderguru/videos) and [Grant Abbitt](https://www.youtube.com/@grabbitt/videos).<BR><BR>
 <img src="earlysketch.jpg" width="600"><BR>
 <img src="PLPboostring.jpg" height="600"><BR>
-<img src="EmergencyLander.jpg" height="600"><BR>
+<img src="EmergencyLander.png" height="600"><BR>
 
 
 
