@@ -6,13 +6,15 @@
 
 > *Spaceflight as we know it, is based on the century old rocket equation that is the embodiment of the conservation of linear momentum. Current space transportation systems are based on this principle of momentum generation, regardless whether they are chemical, electric, plasma-dynamic, nuclear (fission) or fusion, antimatter, photonic propulsion (relativistic) and photon driven (solar) sails, or exotic Bussard fusion ramjets. Moreover, special relativity puts an upper limit on the speed of any space-vehicle in the form of the velocity of light in vacuum. The only possibility to overcome these severe limitations lies in the finding of novel physical laws that allow constructing propulsion systems based on principles different from classical mechanics (momentum principle). Therefore, there has been a great deal of interest during the last decade in so called breakthrough propulsion physics.* **Walter Dröscher & Jochem Hauser**, 2007.
 
-<BR><BR>
+<BR>
 
 Welcome onboard the ISV Enterprise. This project is an attempt to virtually build a starship for an exploratory scientific mission to survey the surface of the known exoplanet [Proxima Centauri b](https://en.wikipedia.org/wiki/Proxima_Centauri_b). Distance: 4.2 ly. Crew complement: 100. The mission will allow most of the crew to be able to return to Earth within their lifetimes except for the more mature crew who might need to sign a waiver and go into crysleep early. Depending on the final design of the ship and transit time, cryosleep may be required for some of the crew during the voyage. This includes a 1 Earth year time stay at Proxima Centauri b to study the exoplanet and its system and refuel the ship via ISRU. The starship 3D model has to be theoretically sound and accurate in that it has to comply with current known propulsion physics and engineering rules and be practical to build in real life if this were a real build at a Low Earth Orbit shipyard with an international collaboration between many nations over several decades. To assist in designing the ship, the theoretical groundwork will be done via the <B>Proxima Centauri b Transportation Assessment Study</B> [(PCBTAS)](PCBTAS/PCBTAS.ipynb) Jupyter Notebook following a similar format to the NASA Mars Transportation Assessment Study [(MTAS)](https://www.nasa.gov/wp-content/uploads/2023/09/mtas-study-results-final-april-03-2023-v0007-tagged.pdf). Some educated guesses and interpolation will be allowed as many technologies required for the ship haven't been built yet however the PCBTAS needs to provide enough theoretical guidance to indicate if a ship feature or propulsion system is viable in practice to allow this crewed mission to be successful. This project is also an attempt to design and build the most realistic and detailed 3D model of an interstellar starship based on physics and engineering that we know today. 
 
+<BR>
+
 > *And he concluded that what mankind must do to save itself is to launch an enterprise aimed at leaving the earth... The only thing I could say was this: that if I came to the conclusion that this was what mankind needed, if I wanted to  contribute something to save mankind, then I would probably go into nuclear physics, because only through the liberation of atomic energy could we obtain the means which would enable man not only to leave the earth but to leave the solar system.* **Leo Szilard**, 1932.
 
-<BR><BR>
+<BR>
 
 ISV Enterprise will have the following features (items are marked either <I>Negotiable</I> or <I>Compulsory</I>):
 
