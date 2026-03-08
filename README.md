@@ -172,9 +172,12 @@ Map of local stars within 20 ly. Credit: Richard Powell.
 
 > *I say that God can make a world better than this one, which would be only numerically distinct from this world. My reason is as follows: God can make an infinity of individuals of the same species as the individuals existing today; He can therefore make as many or more individuals than those having been already produced, and He can make them of the same species. But God is not constrained to produce them in this world; He can produce them outside this world, and from them make another world, just as he made this world from those things which exist now.* **William of Ockham**, 1318.
 
-
-
 <BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
 Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
+
+> *The Milky Way is made up of a very large number of small and tightly clustered stars, which on account of their concentration and smallness, seem to be cloudy patches.* **Nasir al-Din al-Tusi**, 1261.
+
+<BR>
+
