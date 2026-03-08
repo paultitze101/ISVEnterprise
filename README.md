@@ -175,7 +175,7 @@ Map of local stars within 20 ly. Credit: Richard Powell.
 <BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
 Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
-<BR>
+<BR><BR>
 
 > *The Milky Way is made up of a very large number of small and tightly clustered stars, which on account of their concentration and smallness, seem to be cloudy patches.* **Nasir al-Din al-Tusi**, 1261.
 
