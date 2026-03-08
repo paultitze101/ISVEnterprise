@@ -181,3 +181,9 @@ Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 
 <BR>
 
+<BR>
+<img src="ESO_Tour.jpg" alt="ESO Tour"/>
+<BR><BR>
+
+> *The Milky Way is the light of many stars which almost touch one another. Their light forms a continuous image on the surface, appearing as one, because of their concentration and the effect of refraction.* **Ibn Bajja**, 1106.
+
