@@ -168,7 +168,13 @@ The former constellation Argo Navis (the Ship Argo). Credit: Johannes Hevelius.
 <BR>
 <img src="20lysmap.gif" alt="20 lightyear star map"/>
 Map of local stars within 20 ly. Credit: Richard Powell.
-<BR><BR>
+<BR>
+
+> *I say that God can make a world better than this one, which would be only numerically distinct from this world. My reason is as follows: God can make an infinity of individuals of the same species as the individuals existing today; He can therefore make as many or more individuals than those having been already produced, and He can make them of the same species. But God is not constrained to produce them in this world; He can produce them outside this world, and from them make another world, just as he made this world from those things which exist now.* **William of Ockham**, 1318.
+
+
+
+<BR>
 <img src="MilkyWay.jpg" alt="Milky Way"/>
 Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
