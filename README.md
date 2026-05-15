@@ -193,5 +193,5 @@ Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
 
 <p align="center">
-  <img src="ISSEnterprise_Hull_Marking.jpg" alt="ISS Enterprise" />
+  <img src="ISVEnterprise_Hull_Marking.jpg" alt="ISS Enterprise" />
 </p>
