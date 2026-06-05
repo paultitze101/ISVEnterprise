@@ -54,7 +54,7 @@ ISV Enterprise will have the following features (items are marked either <I>Nego
 <img src="EmergencyLander.png" height="600"><BR><BR>
 
 - Communications antenna array including a substantial parabolic dish for long distance (delayed) communications back to Earth and other antennae/smaller dishes for close range communications with local craft when required, proximity radars, optical laser telescopes for high data rate coms, startrackers and AI integrated TCAS (Traffic Collision Avoidance System), in this case debris and rocks along the way. <I>Compulsory.</I> Early concept:<BR><BR>
-<img src="Coms.png"><BR><BR>
+<img src="Coms_repo.png"><BR><BR>
 
 - Compact 6 m diameter telescope with a full astronomical scientific instrument suite. The primary segmented mirror is able to be folded when not in use. No interstellar explorer should venture into the galaxy without a telescope, being on a starship is no excuse. This is to gather as much data as we can prior to arrival in the star system. Finding water ice prior to arrival in the system would be very helpful. <I>Negotiable</I>
 
