@@ -164,7 +164,7 @@ Useful reference material:
 <img src="earlysketch.jpg" width="600"><BR>
 <img src="PLPboostring.jpg" height="600"><BR><BR>
 
-05/06/26: Added early concept designs for the shuttle, coms array and telescope (ChatGPT assist). Decided to add a 2nd roating habitat as cancelling the angular momentum via a counter rotating flywheel is also very mass expensive, look at mass savings once the overall design of the ship is finalised. Rough back of the envelope calculations suggest the ship is still too massive for the mission requirements C/E still learning Blender.<BR>
+05/06/26: Added early concept designs for the shuttle, coms array and telescope (ChatGPT assist). Decided to add a 2nd set of rotating habitats as cancelling the angular momentum via a counter rotating flywheel is also very mass expensive, look at mass savings once the overall design of the ship is finalised. Rough back of the envelope calculations suggest the ship is still too massive for the mission requirements. C/E still learning Blender.<BR>
 
 
 
