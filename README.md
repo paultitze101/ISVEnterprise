@@ -41,7 +41,7 @@ Supports the forward dust shield attachment, shuttle docking port, ISRU tug dock
 Zone B — Midship Structural Section:<BR>
 Supports the rotating habitat interfaces, cryogenic fluid management tank cluster farms, radiator wing mounts, utility systems, and other major midship modules.<BR>
 <img src="ZoneB_Truss_repo.png"><BR>
-<img src="Rotating_Hub_Truss_repo.png"><BR>
+<img src="Rotating_Hab_Truss_repo.png"><BR>
 Zone C — Aft Propulsion Interface:<BR>
 A tapered and reinforced aft section designed to transfer thrust, bending, vibration, and torsional loads from the MAP and NFP propulsion systems into the main ship structure transitioning to the aft engineering section.<BR>
 <img src="ZoneC_Truss_repo.png"><BR>
