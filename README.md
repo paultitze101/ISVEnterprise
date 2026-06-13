@@ -166,7 +166,8 @@ Useful reference material:
 
 05/06/26: Added early concept designs for the shuttle, coms array, truss segments and telescopes (ChatGPT assist). Decided to add a 2nd set of rotating habitats as cancelling the angular momentum via a counter rotating flywheel as originally envisaged is mass expensive, inefficient and introduces complex machinery, much better to use a 2nd set of habitats although there is a significant mass increase to the ship however there will be benefits for the crew and ship versatility. Back of the envelope calculations suggest the ship is still too massive for the propulsion systems used, still need to work on both. C/E still learning Blender. Revised layout:<BR><BR>
 <img src="layout2_repo.jpg"><BR>
-
+<BR><BR>
+Further updates will now be in the Discussions section: [Ship construction updates](https://github.com/paultitze101/ISVEnterprise/discussions/3)
 
 
 
