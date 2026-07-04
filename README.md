@@ -43,7 +43,7 @@ Supports the rotating habitat interfaces, cryogenic fluid management tank cluste
 <img src="ZoneB_Truss_repo.png"><BR>
 <img src="Rotating_Hab_Truss_repo.png"><BR>
 Zone C — Aft Propulsion Interface:<BR>
-A tapered and reinforced aft section designed to transfer thrust, bending, vibration, and torsional loads from the MAP and NFP propulsion systems into the main ship structure transitioning to the aft engineering section.<BR>
+A tapered and reinforced aft section designed to transfer thrust, bending, vibration, and torsional loads from the MAP and NFP propulsion systems into the main ship structure transitioning to the aft engineering section. This includes an Aft dust shield design within the aft bulkhead area to protect the engineering section during the deceleration phase.<BR>
 <img src="ZoneC_Truss_repo.png"><BR>
 <BR>
 A long pressurised microgravity corridor runs inside the truss, fitted with bulkheads and isolation hatches. This corridor provides crew access to the shuttle, ISRU tug, emergency landers, forward systems, and aft engineering section. Two rotating-to-non-rotating transfer interfaces allow crew movement between the pressurised rotating habitats and the fixed pressurised truss corridor. Estimated central truss mass: 2,000 t+. <I>Compulsory.</I> Early concepts shown.<BR>
