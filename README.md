@@ -116,6 +116,7 @@ Useful reference material:
 - [Prospective of Photon Propulsion for Interstellar Flight](https://www.researchgate.net/publication/268423813_Prospective_of_Photon_Propulsion_for_Interstellar_Flight), by Young K. Bae.
 - [Photonic Laser Propulsion](https://shop.elsevier.com/books/photonic-laser-propulsion/bae/978-0-443-33627-0), by Young K. Bae. Book preview available [here](https://www.researchgate.net/publication/384863392_Photonic_Laser_Propulsion).
 - [Technical Brief](https://www.nasa.gov/wp-content/uploads/2023/03/radiation-protection-technical-brief-ochmo.pdf): Design for Ionizing Radiation Protection, NASA.
+- [A First-Order Assessment of Permanent Magnet Deflection for Space Radiation Protection](https://arxiv.org/abs/2607.00759), by Valerio Parisi et al.
 - [The Space Environment and Its Effects on Space Systems](https://arc.aiaa.org/doi/book/10.2514/4.103537), by Vincent L. Pisacane.
 - [Voyager 1 Data Reveals Signatures of the Local Gas and Cosmic-Ray Source Distributions](https://arxiv.org/abs/2512.03385), by Troy A. Porter, Igor V. Moskalenko, Alan C. Cummings and Guðlaugur Jóhannesson.
 - [Space Radiobiology](https://www.worldscientific.com/worldscibooks/10.1142/q0521#t=aboutBook), by Alessandro Bartoloni and Lidia Strigari.
