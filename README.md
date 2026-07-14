@@ -150,6 +150,7 @@ Useful reference material:
   <img src="AG.jpg" alt="Watch on YouTube" />
 </a>
 </p>
+<BR>
 
 > *Who knows how many thousands of years it may take until the human species becomes capable of traveling to the distant planets of this system?* **Immanuel Kant**, 1755.
 
