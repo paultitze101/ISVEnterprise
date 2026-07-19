@@ -22,7 +22,7 @@ ISV Enterprise will have the following features (items are marked either <I>Nego
 
 - Length Overall (LOA) shall not exceed 700 m. <I>Negotiable</I>
 
-- The ship has to be able to reach a minimum peak velocity during the coast phase of 0.20c. <I>Compulsory</I>
+- The ship has to be able to reach a minimum peak velocity during the coast phase of 0.20c (20% the speed of light or approximately 60,000 km/s). <I>Compulsory</I>
 
 - The wet mass of the ship shall not exceed 150,000 tonnes. Some refuelling will be required at the destination via ISRU. <I>Negotiable</I>
 
