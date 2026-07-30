@@ -121,6 +121,7 @@ Useful reference material:
 - [The Space Environment and Its Effects on Space Systems](https://arc.aiaa.org/doi/book/10.2514/4.103537), by Vincent L. Pisacane.
 - [Voyager 1 Data Reveals Signatures of the Local Gas and Cosmic-Ray Source Distributions](https://arxiv.org/abs/2512.03385), by Troy A. Porter, Igor V. Moskalenko, Alan C. Cummings and Guðlaugur Jóhannesson.
 - [Space Radiobiology](https://www.worldscientific.com/worldscibooks/10.1142/q0521#t=aboutBook), by Alessandro Bartoloni and Lidia Strigari.
+- [Nurturing the Children of the Sky: Bioethical, Developmental, and Sociopolitical Frameworks for Child-Rearing Beyond Earth](https://2026.spacerenaissance.space/wp-content/uploads/2026/06/3.1.LIS_.DB_.05-DAVID-BRODY.pdf), by David S. Brody. 
 - [A Review of Magnetic Shielding Technology for Space Radiation](https://www.mdpi.com/2673-592X/3/1/5), by Kristine Ferrone, Charles Willis, Fada Guan, Jingfei Ma, Leif Peterson and Stephen Kry.
 - [A First-Order Assessment of Permanent Magnet Deflection for Space Radiation Protection](https://arxiv.org/abs/2607.00759), by Valerio Parisi et al.
 - [Magnetospheric Shielding of Spacecraft and Crew From Galactic Cosmic Radiation](https://www.researchgate.net/publication/382489169_Magnetospheric_Shielding_of_Spacecraft_and_Crew_from_Galactic_Cosmic_Radiation), by John Slough.
