@@ -20,7 +20,7 @@ Welcome onboard the ISV Enterprise. This project is an attempt to virtually buil
 
 ISV Enterprise will have the following features (items are marked either <I>Negotiable</I> or <I>Compulsory</I>):
 
-- Length Overall (LOA) shall not exceed 700 m. <I>Negotiable</I>
+- Length Overall (LOA) shall not exceed 890 m. <I>Negotiable</I>
 
 - The ship has to be able to reach a minimum peak velocity during the coast phase of 0.20c (20% the speed of light or approximately 60,000 km/s). <I>Compulsory</I>
 
