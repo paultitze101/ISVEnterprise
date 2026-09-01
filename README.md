@@ -132,6 +132,7 @@ Useful reference material:
 - [Deep Space Propulsion](https://www.amazon.com/Deep-Space-Propulsion-Roadmap-Interstellar/dp/1461406064/) - A Roadmap to Interstellar Flight, by Kelvin F. Long.
 - [Centauri Dreams](https://www.amazon.com.au/dp/038700436X), by [Paul Gilster](https://www.centauri-dreams.org/) who also has an excellent [Interstellar Booklist](https://www.centauri-dreams.org/an-interstellar-booklist/).
 - [The Physics of Interstellar Travel](https://bailer-jones.www3.mpia.de/pit.html), by Coryn Bailer-Jones.
+- [Interstellar Travel Part I](https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets), [Part II](https://www.universetoday.com/articles/interstellar-travel-the-birth-of-fusion-drives), [Part III](https://www.universetoday.com/articles/interstellar-travel-iii-antimatter-to-the-rescue), [Part IV](https://www.universetoday.com/articles/interstellar-travel-iv-solar-magnetic-directed-energy-sails), Part V, by Matthew Williams. 
 - [Project Daedalus at 50 Years: The Fusion Starship Revisited](https://www.altpropulsion.com/project-daedalus-at-50-years-the-fusion-starship-revisited/), by Tim Ventura.
 - [Advanced Propulsion Resources Part 1 of 2](https://www.linkedin.com/pulse/advanced-propulsion-literature-paul-titze-9a57c/), by Paul Titze.
 - [Advanced Propulsion Resources Part 2 of 2](https://www.linkedin.com/pulse/advanced-propulsion-resources-22-paul-titze-su26c/), by Paul Titze.
