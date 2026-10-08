@@ -228,8 +228,14 @@ Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 > *The Milky Way is the light of many stars which almost touch one another. Their light forms a continuous image on the surface, appearing as one, because of their concentration and the effect of refraction.* **Ibn Bajja**, 1106.
 
 <BR>
-<BR>
 
+<img src="Pismis24.jpg" alt="Pismis24" />
+Pismis 24, a young star cluster about 5,500 ly from Earth in the constellation Scorpius. Credit: James Webb Telescope, NASA, ESA, CSA, STScl.
+<BR><BR>
+
+> *A collection of countless fragments of the nature of nebulous stars.* **Al-Biruni**, 1030.
+
+<BR>
 <p align="center">
   <img src="ISVEnterprise_Hull_Marking.jpg" alt="ISS Enterprise" />
 </p>
