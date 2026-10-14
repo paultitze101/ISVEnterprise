@@ -94,6 +94,9 @@ This project will use [Blender](https://www.blender.org/) with various addons fo
 <a href="https://www.youtube.com/watch?v=87ipqf0iV4c" target="_blank">
   <img src="KSP2YouTube.jpg" alt="Watch on YouTube" />
 </a>
+<a href="https://youtu.be/5Lat9Om08Gg?si=wUh_ppv_H8rz1U2Q" target="_blank">
+  <img src="KSAYouTube.jpg" alt="Watch on YouTube" />
+</a>
 </p>
 
 Early renders and progress reports will be added to this repo. This is an Open Source community based project so anyone is welcome to contribute via the Discussions section, suggestions, what features you think the starship should have, useful papers to refer to etc. Pull requests are also welcome from contributor starship builders after the keel is laid and early Blender files become available, construction updates will be posted further below.
