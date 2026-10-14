@@ -230,7 +230,7 @@ Map of our Milky Way galaxy. Credit: NASA / JPL-Caltech / ESO / R. Hurt.
 <BR>
 
 <img src="Pismis24.jpg" alt="Pismis24" />
-Pismis 24, a young star cluster about 5,500 ly from Earth in the constellation Scorpius. Credit: James Webb Telescope, NASA, ESA, CSA, STScl.
+Pismis 24, a young star cluster about 5,500 ly from Earth in the constellation Scorpius. Credit: James Webb Space Telescope, NASA, ESA, CSA, STScl.
 <BR><BR>
 
 > *A collection of countless fragments of the nature of nebulous stars.* **Al-Biruni**, 1030.
